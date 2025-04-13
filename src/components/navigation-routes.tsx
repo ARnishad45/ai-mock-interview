@@ -9,7 +9,7 @@ interface NavigationRoutesProps {
 export const NavigationRoutes = ({
   isMobile = false,
 }: NavigationRoutesProps) => {
-    console.log(MainRoutes);
+    // console.log(MainRoutes);
   return (
     <>
     <ul
